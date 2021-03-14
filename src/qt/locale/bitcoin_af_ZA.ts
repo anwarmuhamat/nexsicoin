@@ -62,12 +62,12 @@
         <translation>Ontvang adresse</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit is jou Litecoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat u munte stuur.</translation>
+        <source>These are your Nexsicoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit is jou Nexsicoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat u munte stuur.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit is jou Litecoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat jy munte stuur.</translation>
+        <source>These are your Nexsicoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit is jou Nexsicoin-adresse vir die stuur van betalings. Kontroleer altyd die bedrag en die ontvangsadres voordat jy munte stuur.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -326,8 +326,8 @@
         <translation>Herindekseer blokke op skyf...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Stuur muntstukke na 'n Litecoin adres</translation>
+        <source>Send coins to a Nexsicoin address</source>
+        <translation>Stuur muntstukke na 'n Nexsicoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -350,8 +350,8 @@
         <translation>&amp;Verifieer boodskap...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Nexsicoin</source>
+        <translation>Nexsicoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -374,12 +374,12 @@
         <translation>Versleutel die private sleutels wat aan u beursie behoort</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Teken boodskappe met u Litecoin adresse om te bewys dat u hul besit</translation>
+        <source>Sign messages with your Nexsicoin addresses to prove you own them</source>
+        <translation>Teken boodskappe met u Nexsicoin adresse om te bewys dat u hul besit</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Bevestig boodskappe om te verseker dat hulle geteken was met gespesifiseerde Litecoin adresse</translation>
+        <source>Verify messages to ensure they were signed with specified Nexsicoin addresses</source>
+        <translation>Bevestig boodskappe om te verseker dat hulle geteken was met gespesifiseerde Nexsicoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -398,8 +398,8 @@
         <translation>Blad nutsbalk</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Versoek betalings (genereer QR kodes en litecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and nexsicoin: URIs)</source>
+        <translation>Versoek betalings (genereer QR kodes en nexsicoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -410,8 +410,8 @@
         <translation>Wys die lys van gebruikte ontvangsadresse en etikette</translation>
     </message>
     <message>
-        <source>Open a litecoin: URI or payment request</source>
-        <translation>Open 'n litecoin: URI of betalingsversoek</translation>
+        <source>Open a nexsicoin: URI or payment request</source>
+        <translation>Open 'n nexsicoin: URI of betalingsversoek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -454,8 +454,8 @@
         <translation>Op datum</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Litecoin command-line options</source>
-        <translation>Wys die %1 hulpboodskap om 'n lys met moontlike Litecoin bevel-lyn opsies te verkry</translation>
+        <source>Show the %1 help message to get a list with possible Nexsicoin command-line options</source>
+        <translation>Wys die %1 hulpboodskap om 'n lys met moontlike Nexsicoin bevel-lyn opsies te verkry</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -528,8 +528,8 @@
         <translation>Beursie is &lt;b&gt;versleutel&lt;/b&gt; en is tans &lt;b&gt;gesluit&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>'n Noodlottige fout het voorgekom. Litecoin kan nie langer voortgaan nie en sal afsluit.</translation>
+        <source>A fatal error occurred. Nexsicoin can no longer continue safely and will quit.</source>
+        <translation>'n Noodlottige fout het voorgekom. Nexsicoin kan nie langer voortgaan nie en sal afsluit.</translation>
     </message>
 </context>
 <context>
@@ -718,8 +718,8 @@
         <translation>Wysig stuurende adres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Litecoin address.</source>
-        <translation>Die ingeskrewe adres "%1" is nie 'n geldige Litecoin adres nie.</translation>
+        <source>The entered address "%1" is not a valid Nexsicoin address.</source>
+        <translation>Die ingeskrewe adres "%1" is nie 'n geldige Nexsicoin adres nie.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -783,8 +783,8 @@
         <translation>Welkom by %1.</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Nexsicoin</source>
+        <translation>Nexsicoin</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>

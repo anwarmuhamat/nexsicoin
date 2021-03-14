@@ -62,12 +62,12 @@
         <translation>Adresa na koju se prima</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ovo su Vaše Litecoin adrese na koju se vrše uplate. Uvek proverite iznos i prijemnu adresu pre slanja novčića.</translation>
+        <source>These are your Nexsicoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ovo su Vaše Nexsicoin adrese na koju se vrše uplate. Uvek proverite iznos i prijemnu adresu pre slanja novčića.</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ovo su Vaše Litecoin adrese za primanje uplata. Preporučuje se upotreba nove adrese za svaku transakciju.</translation>
+        <source>These are your Nexsicoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ovo su Vaše Nexsicoin adrese za primanje uplata. Preporučuje se upotreba nove adrese za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -322,8 +322,8 @@
         <translation>Ponovo obeležavam blokove na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Pošalji novčiće na Litecoin adresu</translation>
+        <source>Send coins to a Nexsicoin address</source>
+        <translation>Pošalji novčiće na Nexsicoin adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -346,8 +346,8 @@
         <translation>&amp;Proveri poruku...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Nexsicoin</source>
+        <translation>Nexsicoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -370,12 +370,12 @@
         <translation>Enkriptuj privatne ključeve novčanika</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Potpišite poruke sa svojim Litecoin adresama da biste dokazali njihovo vlasništvo</translation>
+        <source>Sign messages with your Nexsicoin addresses to prove you own them</source>
+        <translation>Potpišite poruke sa svojim Nexsicoin adresama da biste dokazali njihovo vlasništvo</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Proverite poruke da biste utvrdili sa kojim Litecoin adresama su potpisane</translation>
+        <source>Verify messages to ensure they were signed with specified Nexsicoin addresses</source>
+        <translation>Proverite poruke da biste utvrdili sa kojim Nexsicoin adresama su potpisane</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -394,8 +394,8 @@
         <translation>Alatke za tabove</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and litecoin: URIs)</source>
-        <translation>Zatražite plaćanje (generiše QR kodove i litecoin: URI-e)</translation>
+        <source>Request payments (generates QR codes and nexsicoin: URIs)</source>
+        <translation>Zatražite plaćanje (generiše QR kodove i nexsicoin: URI-e)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -499,8 +499,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Nexsicoin</source>
+        <translation>Nexsicoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -677,8 +677,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>Nexsicoin Core</source>
+        <translation>Nexsicoin Core</translation>
     </message>
     <message>
         <source>Information</source>
